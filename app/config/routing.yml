@@ -1,0 +1,7 @@
+area_blog:
+    resource: "@AreaBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
+NelmioApiDocBundle:
+  resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
+  prefix:   /api/doc

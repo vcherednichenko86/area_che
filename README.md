@@ -1,4 +1,2 @@
-area_che
-========
-
-symfony-angular app
+Symfony Angular App
+========================
