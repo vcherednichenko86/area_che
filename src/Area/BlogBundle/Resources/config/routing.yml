@@ -1,1 +1,3 @@
-
+blog:
+    type:     rest
+    resource: Area\BlogBundle\Controller\BlogController

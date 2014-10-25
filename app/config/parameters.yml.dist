@@ -17,3 +17,7 @@ parameters:
 
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
+
+    bower_bin:         path/to/bin/bower
+    bower_asset_dir:   path/to/bower/components
+    bower_cache_dir:   path/to/bower/components/cache
